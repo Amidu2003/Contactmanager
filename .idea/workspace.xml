@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21597ee4-844d-4e33-9016-fa398296aeda" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/Contactmanager/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/contactmanager/Contact.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/Contactmanager/ContactManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/contactmanager/ContactManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/Contactmanager/FileHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/contactmanager/FileHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/Contactmanager/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/contactmanager/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/Contactmanager/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/contactmanager/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/contactmanager/FileHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/contactmanager/FileHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/contactmanager/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/contactmanager/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +22,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="050a8492-9b0e-49e0-81ee-5f16a66a7cb0" />
+        <option name="url" value="https://github.com/Amidu2003/Contactmanager.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -80,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1741625100221</updated>
-      <workItem from="1741625101511" duration="3965000" />
+      <workItem from="1741625101511" duration="4927000" />
     </task>
     <servers />
   </component>
