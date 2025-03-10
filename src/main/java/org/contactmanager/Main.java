@@ -1,4 +1,4 @@
-package org.Contactmanager;
+package org.contactmanager;
 
 public class Main {
     public static void main(String[] args) {

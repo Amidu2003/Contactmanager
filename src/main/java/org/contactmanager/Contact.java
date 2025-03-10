@@ -1,6 +1,19 @@
-package org.Contactmanager;
+package org.contactmanager;
 
 public class Contact {
+
+    public Contact(String name, String mobile, String email) {
+        this.name = name;
+        this.mobile = mobile;
+        this.email = email;
+    }
+
+    private String name;
+    private String mobile;
+    private String email;
+
+
+
     public String getName() {
         return name;
     }
@@ -25,14 +38,8 @@ public class Contact {
         this.email = email;
     }
 
-    public Contact(String name, String mobile, String email) {
-        this.name = name;
-        this.mobile = mobile;
-        this.email = email;
-    }
 
-     private String name;
-     private String mobile;
-     private String email;
+
+
 
 }
