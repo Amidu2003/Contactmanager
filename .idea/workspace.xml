@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21597ee4-844d-4e33-9016-fa398296aeda" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/contactmanager/FileHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/contactmanager/FileHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/user.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/contactmanager/ContactManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/contactmanager/contactManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/contactmanager/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/contactmanager/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,16 +48,22 @@
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/BIT Sem 02/sem2 full time/git hub/Contactmanager/src/main/resources/images&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\BIT Sem 02\sem2 full time\git hub\Contactmanager\src\main\resources\images" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="org.contactmanager.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.contactmanager.Main" />
@@ -84,7 +92,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1741625100221</updated>
-      <workItem from="1741625101511" duration="4927000" />
+      <workItem from="1741625101511" duration="8255000" />
+      <workItem from="1741662164068" duration="380000" />
     </task>
     <servers />
   </component>
